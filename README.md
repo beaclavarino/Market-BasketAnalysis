@@ -7,6 +7,3 @@ The task is to implement a system fi nding frequent itemsets (aka market-basket 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/beaclavarino/AMD-Market-Basket-Analysis-Project/blob/main/Notebook_AMD.ipynb)
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PSgdbrOoxOi1s3_DpctDwhFRU5ZD5fyh?usp=sharing)
-
- https://colab.research.google.com/github/beaclavarino/AMD-Market-Basket-Analysis-Project/blob/main/Notebook_AMD.ipynb
