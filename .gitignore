@@ -1,0 +1,11 @@
+# Dataset (non caricarli mai, il codice li scarica via API)
+*.csv
+*.zip
+*.json
+
+# File di controllo integrità (quelli che hai trovato sul Drive)
+*.crc
+
+# File temporanei di Python e Notebook
+__pycache__/
+.ipynb_checkpoints/
