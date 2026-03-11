@@ -12,3 +12,4 @@ The following badge links directly from the repository to the colab version of t
 
 ### Repository structure:
 
+- Report.pdf: The project report, written in LaTeX, provides a comprehensive overview of the methodology, experiments, and results.
