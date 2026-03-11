@@ -1,5 +1,5 @@
 # Project 2: Market-Basket Analysis
-*Beatrice Clavarino — Student ID: 39471A*
+*Beatrice Clavarino*
 
 Master in Data Science for Economics
 
