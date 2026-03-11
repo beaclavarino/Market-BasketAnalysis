@@ -1,4 +1,4 @@
-# Project 2: Market-Basket Analysis
+# Market-Basket Analysis
 *Beatrice Clavarino*
 
 Master in Data Science for Economics
