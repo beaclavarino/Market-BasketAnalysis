@@ -8,6 +8,7 @@ The task is to implement a system finding frequent itemsets (aka market-basket a
 
 The following badge links directly to the Colab version of the notebook
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/beaclavarino/AMD-Market-Basket-Analysis-Project/blob/main/project_code.ipynb)
 
 ### Repository structure:
 
